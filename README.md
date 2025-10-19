@@ -1,4 +1,4 @@
-# Hey!, This is Furkan👋
+# Hey! This is Furkan👋
 
 Aspiring **Machine Learning Engineer** | Python | Django | Front-End & SQL Development
 
