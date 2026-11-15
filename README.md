@@ -77,6 +77,7 @@
 | Project | Description | Tech | Live Demo |
 |---------|-------------|------|-----------|
 | [**Customer Churn Prediction**](https://github.com/MKxFurkan/Customer-Churn-Prediction) | An end-to-end ML application that predicts customer churn by comparing and tuning multiple classification models. | `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` | [🚀 Live Demo](https://churn-prediction-byfurkan.streamlit.app/) |
+| [**Delivery Time Prediction**](https://github.com/MKxFurkan/Delivery-time-prediction) | An ML application that predicts food delivery times using historical delivery data and an XGBoost regression model. | `Python` `XGBoost` `Scikit-learn` `Pandas` `Streamlit` | [🚀 Live Demo](YOUR_STREAMLIT_APP_URL) |
 | [**House Price Prediction**](https://github.com/MKxFurkan/House-price-prediction) | An ML application that predicts house prices using the Ames Housing dataset, feature engineering, and XGBoost. | `Python` `XGBoost` `Scikit-learn` `Streamlit` | [🚀 Live Demo](https://house-price-prediction-furkan.streamlit.app/) |
 
 ---
